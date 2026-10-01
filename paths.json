@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/en:/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/en/:/en/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/fr/:/fr/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/fr:/fr",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/es/:/es/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/es:/es",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/ja/:/ja/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/ja:/ja",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/de/:/de/",
-    "/content/696f3e84bf795426d5d1d8e7/language-masters/de:/de",
-    "/content/696f3e84bf795426d5d1d8e7/configuration:/.helix/config.json",
-    "/content/696f3e84bf795426d5d1d8e7/metadata:/metadata.json",
-    "/content/696f3e84bf795426d5d1d8e7/redirects:/redirects.json",
-    "/content/696f3e84bf795426d5d1d8e7/placeholders:/placeholders.json"
+    "/content/salsmadi/wcsc-20261001-091348-diriyah/language-masters/en:/",
+    "/content/salsmadi/wcsc-20261001-091348-diriyah/language-masters/en/:/en/",
+    "/content/salsmadi/wcsc-20261001-091348-diriyah/language-masters/fr/:/fr/",
+    "/content/salsmadi/wcsc-20261001-091348-diriyah/language-masters/fr:/fr",
+    "/content/salsmadi/wcsc-20261001-091348-diriyah/language-masters/es/:/es/",
+    "/content/salsmadi/wcsc-20261001-091348-diriyah/language-masters/es:/es",
+    "/content/salsmadi/wcsc-20261001-091348-diriyah/language-masters/ja/:/ja/",
+    "/content/salsmadi/wcsc-20261001-091348-diriyah/language-masters/ja:/ja",
+    "/content/salsmadi/wcsc-20261001-091348-diriyah/language-masters/de/:/de/",
+    "/content/salsmadi/wcsc-20261001-091348-diriyah/language-masters/de:/de",
+    "/content/salsmadi/wcsc-20261001-091348-diriyah/configuration:/.helix/config.json",
+    "/content/salsmadi/wcsc-20261001-091348-diriyah/metadata:/metadata.json",
+    "/content/salsmadi/wcsc-20261001-091348-diriyah/redirects:/redirects.json",
+    "/content/salsmadi/wcsc-20261001-091348-diriyah/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/696f3e84bf795426d5d1d8e7/",
-    "/content/dam/696f3e84bf795426d5d1d8e7/"
+    "/content/salsmadi/wcsc-20261001-091348-diriyah/",
+    "/content/dam/salsmadi/wcsc-20261001-091348-diriyah/"
   ]
 }
